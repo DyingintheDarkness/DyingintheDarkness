@@ -2,7 +2,6 @@
 ## I'm a Student, Developer
 - 🛠  I'm currently working on NodeJS-Link-Shortener.
 - 🌱 I’m currently learning Discord.JS, Java
-- 🥅 2022 Goals: Contribute to Open Source projects
 - 🎓 I'm currently studying **Physics, Chemistry, and Mathematics** with other additional subjects at my school.
 
 
