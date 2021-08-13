@@ -1,7 +1,6 @@
 ### Hi there, I'm DyingintheDarkness 👋
 ## I'm a Student, Developer
 - 🛠  I'm currently working on Quic.ly.
-- 🌱 I’m currently learning Discord.JS, Java
 - 🎓 I'm currently studying **Physics, Chemistry, and Mathematics** with other additional subjects at my school.
 
 
