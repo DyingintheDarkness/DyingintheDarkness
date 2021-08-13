@@ -1,6 +1,7 @@
 ### Hi there, I'm DyingintheDarkness 👋
 ## I'm a Student, Developer
-<!-- - 🛠  I'm currently working on . -->
+- 🌱  I'm currently learning Java.
+- 🛠  I'm currently working on Nothing.
 - 🎓 I'm currently studying **Physics, Chemistry, and Mathematics** with other additional subjects at my school.
 
 
