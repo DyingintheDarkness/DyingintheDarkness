@@ -5,6 +5,7 @@
 - 🎓 I'm currently studying **Physics, Chemistry, and Mathematics** with other additional subjects at my school.
 
 
+
 ### Connect with me:
 
 [<img align="left" alt="DyingintheDark_ | Twitter" width="22px" src="https://user-images.githubusercontent.com/64571343/128832247-a86283fb-0f47-4e80-83d3-b5a505b84f5e.png" />][twitter]
@@ -24,6 +25,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/64571343/128832940-7d6954e8-0007-43da-ac2d-de858ec722f5.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://user-images.githubusercontent.com/64571343/134542042-f1abdff6-ceb7-4320-ba5d-7ad4e6a81324.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/64571343/128831325-fb3b7c52-ad26-4238-b24c-2572bb2037f3.png" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/64571343/128832627-8eae35aa-8ec7-40c4-9d77-ee006349b962.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
