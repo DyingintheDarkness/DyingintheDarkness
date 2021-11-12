@@ -1,7 +1,7 @@
 ### Hi there, I'm DyingintheDarkness 👋
 ## I'm a Student, Developer
-<!-- - 🌱  I'm currently learning Flask. -->
-<!-- - 🛠  I'm currently working on halolegion.com -->
+- 🌱  I'm currently learning Spring.
+- 🛠  I'm currently working on Weatherly.
 - 🎓 I'm currently studying **Physics, Chemistry, and Mathematics** with other additional subjects at my school.
 
 
