@@ -8,8 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="DyingintheDark_ | Twitter" width="22px" src="https://user-images.githubusercontent.com/64571343/128832247-a86283fb-0f47-4e80-83d3-b5a505b84f5e.png" />][twitter]
-[<img align="left" alt="DyingintheDarkness_ | Instagram" width="22px" src="https://user-images.githubusercontent.com/64571343/128832366-34781d5f-034c-4723-b8e8-c4bed0e807a1.png" />][instagram]
+[<img align="left" alt="DyingintheDark_ | Twitter" width="26px" src="https://user-images.githubusercontent.com/64571343/128832247-a86283fb-0f47-4e80-83d3-b5a505b84f5e.png" />][twitter]
+
+[<img align="left" alt="DyingintheDarkness_ | Instagram" width="26px" src="https://user-images.githubusercontent.com/64571343/128832366-34781d5f-034c-4723-b8e8-c4bed0e807a1.png" />][instagram]
 
 
 <br />
@@ -21,8 +22,9 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Typescript" width="26px" src="https://user-images.githubusercontent.com/64571343/150647768-276e0fcb-fcc4-4876-8859-c5590638c741.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/64571343/128832940-7d6954e8-0007-43da-ac2d-de858ec722f5.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://user-images.githubusercontent.com/64571343/134542042-f1abdff6-ceb7-4320-ba5d-7ad4e6a81324.png" />
